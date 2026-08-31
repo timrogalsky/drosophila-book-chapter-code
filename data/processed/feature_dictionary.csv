@@ -1,0 +1,56 @@
+Feature_Name,Feature_Label,Feature_Description,Feature_Category
+a_mean,Mean of delta,Average of all non-NaN delta values,Statistical Summary
+a_std,Standard deviation,Variability of delta values,Statistical Summary
+a_range,Range,Difference between max and min delta values,Statistical Summary
+a_median,Median,Middle value of the delta distribution,Statistical Summary
+a_skew,Skewness,Asymmetry of the delta distribution,Statistical Summary
+a_kurtosis,Kurtosis,Peakedness or tail heaviness of the delta distribution,Statistical Summary
+b_dominant_freq,Dominant frequency,Highest-power frequency in cycles/hour,Oscillation
+b_total_power,Total spectral power,PSD integrated over frequency,Oscillation
+b_band_power_low,Low-frequency band power,Power in a defined low-frequency band,Oscillation
+b_band_power_mid,Mid-frequency band power,Power in a mid-frequency band,Oscillation
+b_band_power_high,High-frequency band power,Power in a high-frequency band,Oscillation
+b_spectral_entropy,Normalized spectral entropy,Length-normalized entropy of the PSD distribution,Oscillation
+b_spectral_flatness,Spectral flatness,Flatness of the frequency distribution,Oscillation
+c_avg_time_between_peaks,Average time between peaks,Mean time steps between maxima,Peak & Trough Timing
+c_std_time_between_peaks,Std dev of time between peaks,Variation in peak spacing,Peak & Trough Timing
+c_avg_time_between_troughs,Average time between troughs,Mean time steps between minima,Peak & Trough Timing
+c_std_time_between_troughs,Std dev of time between troughs,Variation in trough spacing,Peak & Trough Timing
+c_mean_peak_to_trough_time,Mean fall time,Time from peak to next trough,Peak & Trough Timing
+c_mean_trough_to_peak_time,Mean rise time,Time from trough to next peak,Peak & Trough Timing
+c_oscillation_rate,Oscillation rate,Total peaks+troughs per time step,Peak & Trough Timing
+d_slope_magnitude,Slope of oscillation magnitude,Linear trend of amplitude,Magnitude Change
+d_poly_mag_c0,Magnitude poly fit (c0),Polynomial fit to magnitude: coefficient c0,Magnitude Change
+d_poly_mag_c1,Magnitude poly fit (c1),Polynomial fit to magnitude: coefficient c1,Magnitude Change
+d_poly_mag_c2,Magnitude poly fit (c2),Polynomial fit to magnitude: coefficient c2,Magnitude Change
+d_poly_mag_c3,Magnitude poly fit (c3),Polynomial fit to magnitude: coefficient c3,Magnitude Change
+d_poly_peak_c0,Peak magnitude poly fit (c0),Polynomial fit to peak magnitude: coefficient c0,Magnitude Change
+d_poly_peak_c1,Peak magnitude poly fit (c1),Polynomial fit to peak magnitude: coefficient c1,Magnitude Change
+d_poly_peak_c2,Peak magnitude poly fit (c2),Polynomial fit to peak magnitude: coefficient c2,Magnitude Change
+d_poly_peak_c3,Peak magnitude poly fit (c3),Polynomial fit to peak magnitude: coefficient c3,Magnitude Change
+d_poly_trough_c0,Trough magnitude poly fit (c0),Polynomial fit to trough magnitude: coefficient c0,Magnitude Change
+d_poly_trough_c1,Trough magnitude poly fit (c1),Polynomial fit to trough magnitude: coefficient c1,Magnitude Change
+d_poly_trough_c2,Trough magnitude poly fit (c2),Polynomial fit to trough magnitude: coefficient c2,Magnitude Change
+d_poly_trough_c3,Trough magnitude poly fit (c3),Polynomial fit to trough magnitude: coefficient c3,Magnitude Change
+d_mean_magnitude,Mean amplitude,Average oscillation magnitude,Magnitude Change
+d_std_magnitude,Std dev of amplitude,Variation in oscillation amplitude,Magnitude Change
+d_initial_magnitude,Initial oscillation strength,Average magnitude in first 2–3 cycles,Magnitude Change
+d_final_magnitude,Final oscillation strength,Average magnitude in last 2–3 cycles,Magnitude Change
+d_mean_peak_to_trough_magnitude,Mean fall amplitude,Average drop from peak to trough,Magnitude Change
+d_mean_trough_to_peak_magnitude,Mean rise amplitude,Average rise from trough to peak,Magnitude Change
+d_initial_peak_to_trough_magnitude,Initial fall amplitude,Fall magnitude in first 2–3 cycles,Magnitude Change
+d_final_peak_to_trough_magnitude,Final fall amplitude,Fall magnitude in last 2–3 cycles,Magnitude Change
+d_initial_trough_to_peak_magnitude,Initial rise amplitude,Rise magnitude in first 2–3 cycles,Magnitude Change
+d_final_trough_to_peak_magnitude,Final rise amplitude,Rise magnitude in last 2–3 cycles,Magnitude Change
+e_autocorr_lag1,Autocorrelation (lag 1),Correlation with lag-1,Complexity & Autocorrelation
+e_autocorr_lagk,Max autocorrelation (lags 2–10),Strongest long-lag autocorr,Complexity & Autocorrelation
+e_hurst_exponent,Hurst exponent,Trend or reversal tendency,Complexity & Autocorrelation
+f_early_mean,Early mean,Mean in early window,Early vs. Late Behavior
+f_late_mean,Late mean,Mean in late window,Early vs. Late Behavior
+f_early_std,Early standard deviation,Std dev in early window,Early vs. Late Behavior
+f_late_std,Late standard deviation,Std dev in late window,Early vs. Late Behavior
+f_early_autocorr,Early autocorrelation,Lag-1 autocorr (early),Early vs. Late Behavior
+f_late_autocorr,Late autocorrelation,Lag-1 autocorr (late),Early vs. Late Behavior
+f_delta_mean,Change in mean,Late mean - early mean,Early vs. Late Behavior
+g_asymmetry_index,Asymmetry index,Ratio of rise/fall time,Oscillation Shape
+g_sharpness_index,Sharpness index,Steepest slope,Oscillation Shape

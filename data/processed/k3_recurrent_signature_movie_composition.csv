@@ -1,0 +1,9 @@
+K3_Strict_Signature,Signature_Rank,Signature_N,Movie_1_N,Movie_2_N,Movie_3_N,Largest_Movie_Fraction,Only_One_Movie_Represented,Any_Movie_Fewer_Than_3,Any_Movie_Absent,Movies_Fewer_Than_3,Movies_Absent
+K3-DW2a-DK0-PK1-NH2-NK3,1,16,10,6,0,0.625,False,True,True,Mov. 3,Mov. 3
+K3-DW1-DK1-PK2-NH1-NK1,2,14,1,4,9,0.6428571428571429,False,True,False,Mov. 1,
+K3-DW1-DK1-PK3-NH1-NK1,3,13,1,2,10,0.7692307692307693,False,True,False,Mov. 1;Mov. 2,
+K3-DW2b-DK0-PK1-NH3-NK2,4,11,5,2,4,0.45454545454545453,False,True,False,Mov. 2,
+K3-DW2a-DK0-PK1-NH3-NK2,5,8,5,3,0,0.625,False,True,True,Mov. 3,Mov. 3
+K3-DW2b-DK0-PK1-NH2-NK3,6,7,0,2,5,0.7142857142857143,False,True,True,Mov. 1;Mov. 2,Mov. 1
+K3-DW2b-DK2-PK1-NH2-NK3,7,7,1,1,5,0.7142857142857143,False,True,False,Mov. 1;Mov. 2,
+K3-DW2b-DK2-PK3-NH3-NK2,8,5,0,3,2,0.6,False,True,True,Mov. 1;Mov. 3,Mov. 1

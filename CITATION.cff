@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using the metadata in this file."
+title: "Drosophila Cell-Dynamics Unsupervised Machine Learning Workflow"
+type: software
+authors:
+  - family-names: "Rogalsky"
+    given-names: "Tim"
+    affiliation: "Canadian Mennonite University"
+  - family-names: "Malagon"
+    given-names: "Nicolas"
+    affiliation: "Canadian Mennonite University"
+  - family-names: "Campbell-Enns"
+    given-names: "Lia"
+    affiliation: "Canadian Mennonite University"
+  - family-names: "Dyck"
+    given-names: "Matthaeus"
+    affiliation: "Canadian Mennonite University"
+license: MIT

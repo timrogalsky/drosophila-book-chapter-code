@@ -1,0 +1,109 @@
+Cell_Name,K3_DW,K3_DK,K3_PH,K3_PK,K3_NH,K3_NK,K3_Strict_Signature,Signature_Rank,Signature_N,Tier
+Mov. 1 - Cell 10,2a,0,2,1,2,3,K3-DW2a-DK0-PK1-NH2-NK3,1,16,Strong core
+Mov. 1 - Cell 10.1,2a,0,3,1,3,2,K3-DW2a-DK0-PK1-NH3-NK2,5,8,Broader tier
+Mov. 1 - Cell 11,2a,0,3,1,3,2,K3-DW2a-DK0-PK1-NH3-NK2,5,8,Broader tier
+Mov. 1 - Cell 11.1,2b,0,3,1,3,2,K3-DW2b-DK0-PK1-NH3-NK2,4,11,Strong core
+Mov. 1 - Cell 12,2a,0,2,1,2,3,K3-DW2a-DK0-PK1-NH2-NK3,1,16,Strong core
+Mov. 1 - Cell 12.1,2b,0,3,1,3,2,K3-DW2b-DK0-PK1-NH3-NK2,4,11,Strong core
+Mov. 1 - Cell 13.1,2b,0,2,1,3,2,K3-DW2b-DK0-PK1-NH3-NK2,4,11,Strong core
+Mov. 1 - Cell 14.1,2b,0,2,1,3,2,K3-DW2b-DK0-PK1-NH3-NK2,4,11,Strong core
+Mov. 1 - Cell 15,2a,0,3,1,2,3,K3-DW2a-DK0-PK1-NH2-NK3,1,16,Strong core
+Mov. 1 - Cell 15.1,2b,0,2,1,3,2,K3-DW2b-DK0-PK1-NH3-NK2,4,11,Strong core
+Mov. 1 - Cell 17,2a,0,2,1,2,3,K3-DW2a-DK0-PK1-NH2-NK3,1,16,Strong core
+Mov. 1 - Cell 18,2b,2,1,2,1,3,K3-DW2b-DK2-PK2-NH1-NK3,28,1,Lower frequency
+Mov. 1 - Cell 20,2a,0,2,1,2,3,K3-DW2a-DK0-PK1-NH2-NK3,1,16,Strong core
+Mov. 1 - Cell 21,2a,0,2,1,2,3,K3-DW2a-DK0-PK1-NH2-NK3,1,16,Strong core
+Mov. 1 - Cell 23,2a,0,2,1,2,3,K3-DW2a-DK0-PK1-NH2-NK3,1,16,Strong core
+Mov. 1 - Cell 24,2a,0,3,1,3,2,K3-DW2a-DK0-PK1-NH3-NK2,5,8,Broader tier
+Mov. 1 - Cell 25,2a,0,2,1,2,3,K3-DW2a-DK0-PK1-NH2-NK3,1,16,Strong core
+Mov. 1 - Cell 26,2a,0,2,1,2,3,K3-DW2a-DK0-PK1-NH2-NK3,1,16,Strong core
+Mov. 1 - Cell 7,2a,0,2,1,2,3,K3-DW2a-DK0-PK1-NH2-NK3,1,16,Strong core
+Mov. 1 - Cell 7.1,2a,0,3,1,3,2,K3-DW2a-DK0-PK1-NH3-NK2,5,8,Broader tier
+Mov. 1 - Cell 9,1,2,1,2,1,1,K3-DW1-DK2-PK2-NH1-NK1,16,1,Lower frequency
+Mov. 1 - Cell 9.1,2a,0,3,1,3,2,K3-DW2a-DK0-PK1-NH3-NK2,5,8,Broader tier
+Mov. 1 - M,2b,2,2,1,2,3,K3-DW2b-DK2-PK1-NH2-NK3,7,7,Broader tier
+Mov. 1 - N,1,1,1,2,1,1,K3-DW1-DK1-PK2-NH1-NK1,2,14,Strong core
+Mov. 1 - O,1,1,1,3,1,1,K3-DW1-DK1-PK3-NH1-NK1,3,13,Strong core
+Mov. 1 - cell 16.1,2b,0,2,1,2,2,K3-DW2b-DK0-PK1-NH2-NK2,19,1,Lower frequency
+Mov. 2 - 15 (purple),2b,2,2,1,3,3,K3-DW2b-DK2-PK1-NH3-NK3,26,1,Lower frequency
+Mov. 2 - 15 (white),2b,2,2,1,2,3,K3-DW2b-DK2-PK1-NH2-NK3,7,7,Broader tier
+Mov. 2 - Cell 1,1,1,3,3,1,1,K3-DW1-DK1-PK3-NH1-NK1,3,13,Strong core
+Mov. 2 - Cell 11,1,1,3,3,3,2,K3-DW1-DK1-PK3-NH3-NK2,9,2,Lower frequency
+Mov. 2 - Cell 12,2b,0,2,1,3,3,K3-DW2b-DK0-PK1-NH3-NK3,20,1,Lower frequency
+Mov. 2 - Cell 13,2b,0,3,1,3,2,K3-DW2b-DK0-PK1-NH3-NK2,4,11,Strong core
+Mov. 2 - Cell 14,2b,2,2,2,2,3,K3-DW2b-DK2-PK2-NH2-NK3,29,1,Lower frequency
+Mov. 2 - Cell 16,1,2,3,3,1,1,K3-DW1-DK2-PK3-NH1-NK1,17,1,Lower frequency
+Mov. 2 - Cell 18,2b,0,3,3,1,2,K3-DW2b-DK0-PK3-NH1-NK2,22,1,Lower frequency
+Mov. 2 - Cell 2,1,1,1,2,1,1,K3-DW1-DK1-PK2-NH1-NK1,2,14,Strong core
+Mov. 2 - Cell 22,1,1,1,2,1,1,K3-DW1-DK1-PK2-NH1-NK1,2,14,Strong core
+Mov. 2 - Cell 23,1,1,3,3,1,1,K3-DW1-DK1-PK3-NH1-NK1,3,13,Strong core
+Mov. 2 - Cell 3,2b,0,2,1,2,3,K3-DW2b-DK0-PK1-NH2-NK3,6,7,Broader tier
+Mov. 2 - Cell 34,1,1,1,2,1,1,K3-DW1-DK1-PK2-NH1-NK1,2,14,Strong core
+Mov. 2 - Cell 36,1,1,1,2,1,1,K3-DW1-DK1-PK2-NH1-NK1,2,14,Strong core
+Mov. 2 - Cell 4,2b,0,3,1,2,3,K3-DW2b-DK0-PK1-NH2-NK3,6,7,Broader tier
+Mov. 2 - Cell 5,2b,0,3,1,3,2,K3-DW2b-DK0-PK1-NH3-NK2,4,11,Strong core
+Mov. 2 - Cell C1,2b,0,3,3,3,3,K3-DW2b-DK0-PK3-NH3-NK3,24,1,Lower frequency
+Mov. 2 - Cell C2,2b,0,3,3,3,2,K3-DW2b-DK0-PK3-NH3-NK2,23,1,Lower frequency
+Mov. 2 - Cell C3,2b,2,3,3,3,2,K3-DW2b-DK2-PK3-NH3-NK2,8,5,Broader tier
+Mov. 2 - Cell C4,2b,2,3,3,3,2,K3-DW2b-DK2-PK3-NH3-NK2,8,5,Broader tier
+Mov. 2 - Cell C5,2b,2,3,3,3,2,K3-DW2b-DK2-PK3-NH3-NK2,8,5,Broader tier
+Mov. 2 - P,2a,0,2,1,3,2,K3-DW2a-DK0-PK1-NH3-NK2,5,8,Broader tier
+Mov. 2 - R,2a,0,3,1,2,3,K3-DW2a-DK0-PK1-NH2-NK3,1,16,Strong core
+Mov. 2 - S,2a,0,2,1,2,3,K3-DW2a-DK0-PK1-NH2-NK3,1,16,Strong core
+Mov. 2 - T,2a,0,2,1,2,3,K3-DW2a-DK0-PK1-NH2-NK3,1,16,Strong core
+Mov. 2 - U,2a,0,3,1,3,3,K3-DW2a-DK0-PK1-NH3-NK3,18,1,Lower frequency
+Mov. 2 - V,2a,0,3,1,2,3,K3-DW2a-DK0-PK1-NH2-NK3,1,16,Strong core
+Mov. 2 - W,2a,0,3,1,3,2,K3-DW2a-DK0-PK1-NH3-NK2,5,8,Broader tier
+Mov. 2 - X,2a,0,3,1,3,2,K3-DW2a-DK0-PK1-NH3-NK2,5,8,Broader tier
+Mov. 2 - Y,2a,0,2,1,2,3,K3-DW2a-DK0-PK1-NH2-NK3,1,16,Strong core
+Mov. 2 - Z,2a,0,2,1,2,3,K3-DW2a-DK0-PK1-NH2-NK3,1,16,Strong core
+Mov. 3 - Cell 1,2b,2,2,1,2,2,K3-DW2b-DK2-PK1-NH2-NK2,25,1,Lower frequency
+Mov. 3 - Cell 10,2b,2,3,3,3,2,K3-DW2b-DK2-PK3-NH3-NK2,8,5,Broader tier
+Mov. 3 - Cell 11,2b,2,3,1,3,2,K3-DW2b-DK2-PK1-NH3-NK2,11,2,Lower frequency
+Mov. 3 - Cell 12,2b,2,2,1,2,3,K3-DW2b-DK2-PK1-NH2-NK3,7,7,Broader tier
+Mov. 3 - Cell 13,2b,0,3,1,2,3,K3-DW2b-DK0-PK1-NH2-NK3,6,7,Broader tier
+Mov. 3 - Cell 14,1,1,3,3,1,2,K3-DW1-DK1-PK3-NH1-NK2,14,1,Lower frequency
+Mov. 3 - Cell 15,2b,2,3,3,1,1,K3-DW2b-DK2-PK3-NH1-NK1,12,2,Lower frequency
+Mov. 3 - Cell 2,2b,0,3,1,3,2,K3-DW2b-DK0-PK1-NH3-NK2,4,11,Strong core
+Mov. 3 - Cell 21,1,1,3,2,3,1,K3-DW1-DK1-PK2-NH3-NK1,13,1,Lower frequency
+Mov. 3 - Cell 22,1,1,1,2,1,1,K3-DW1-DK1-PK2-NH1-NK1,2,14,Strong core
+Mov. 3 - Cell 23,2b,2,3,2,1,1,K3-DW2b-DK2-PK2-NH1-NK1,27,1,Lower frequency
+Mov. 3 - Cell 24,1,1,1,2,1,1,K3-DW1-DK1-PK2-NH1-NK1,2,14,Strong core
+Mov. 3 - Cell 25,1,1,3,3,1,1,K3-DW1-DK1-PK3-NH1-NK1,3,13,Strong core
+Mov. 3 - Cell 26,1,1,3,3,1,1,K3-DW1-DK1-PK3-NH1-NK1,3,13,Strong core
+Mov. 3 - Cell 27,1,1,3,3,1,1,K3-DW1-DK1-PK3-NH1-NK1,3,13,Strong core
+Mov. 3 - Cell 28,1,1,1,2,1,1,K3-DW1-DK1-PK2-NH1-NK1,2,14,Strong core
+Mov. 3 - Cell 29,1,1,1,2,1,1,K3-DW1-DK1-PK2-NH1-NK1,2,14,Strong core
+Mov. 3 - Cell 3,2b,0,3,1,3,2,K3-DW2b-DK0-PK1-NH3-NK2,4,11,Strong core
+Mov. 3 - Cell 30,2b,2,3,1,2,3,K3-DW2b-DK2-PK1-NH2-NK3,7,7,Broader tier
+Mov. 3 - Cell 31,1,1,1,3,1,1,K3-DW1-DK1-PK3-NH1-NK1,3,13,Strong core
+Mov. 3 - Cell 34,2b,0,3,1,3,2,K3-DW2b-DK0-PK1-NH3-NK2,4,11,Strong core
+Mov. 3 - Cell 36,2b,0,2,1,2,3,K3-DW2b-DK0-PK1-NH2-NK3,6,7,Broader tier
+Mov. 3 - Cell 37,2b,0,3,1,3,2,K3-DW2b-DK0-PK1-NH3-NK2,4,11,Strong core
+Mov. 3 - Cell 38,2b,0,3,2,2,3,K3-DW2b-DK0-PK2-NH2-NK3,21,1,Lower frequency
+Mov. 3 - Cell 39,1,1,1,2,1,1,K3-DW1-DK1-PK2-NH1-NK1,2,14,Strong core
+Mov. 3 - Cell 4,2b,2,2,1,2,3,K3-DW2b-DK2-PK1-NH2-NK3,7,7,Broader tier
+Mov. 3 - Cell 40,1,1,3,3,1,1,K3-DW1-DK1-PK3-NH1-NK1,3,13,Strong core
+Mov. 3 - Cell 41,1,1,1,2,1,1,K3-DW1-DK1-PK2-NH1-NK1,2,14,Strong core
+Mov. 3 - Cell 42,1,1,1,2,1,1,K3-DW1-DK1-PK2-NH1-NK1,2,14,Strong core
+Mov. 3 - Cell 43,2b,2,3,3,1,2,K3-DW2b-DK2-PK3-NH1-NK2,30,1,Lower frequency
+Mov. 3 - Cell 44,1,1,1,3,1,1,K3-DW1-DK1-PK3-NH1-NK1,3,13,Strong core
+Mov. 3 - Cell 45,2b,0,3,1,2,3,K3-DW2b-DK0-PK1-NH2-NK3,6,7,Broader tier
+Mov. 3 - Cell 46,1,1,1,3,1,1,K3-DW1-DK1-PK3-NH1-NK1,3,13,Strong core
+Mov. 3 - Cell 47,1,1,3,3,3,2,K3-DW1-DK1-PK3-NH3-NK2,9,2,Lower frequency
+Mov. 3 - Cell 48,2b,2,3,3,3,2,K3-DW2b-DK2-PK3-NH3-NK2,8,5,Broader tier
+Mov. 3 - Cell 49,2b,2,2,1,2,3,K3-DW2b-DK2-PK1-NH2-NK3,7,7,Broader tier
+Mov. 3 - Cell 5,2b,2,3,3,1,1,K3-DW2b-DK2-PK3-NH1-NK1,12,2,Lower frequency
+Mov. 3 - Cell 50,2b,2,3,1,1,2,K3-DW2b-DK2-PK1-NH1-NK2,10,2,Lower frequency
+Mov. 3 - Cell 51,2b,2,3,1,3,2,K3-DW2b-DK2-PK1-NH3-NK2,11,2,Lower frequency
+Mov. 3 - Cell 52,1,2,3,1,3,2,K3-DW1-DK2-PK1-NH3-NK2,15,1,Lower frequency
+Mov. 3 - Cell 53,1,1,3,3,1,1,K3-DW1-DK1-PK3-NH1-NK1,3,13,Strong core
+Mov. 3 - Cell 54,2b,2,3,3,1,3,K3-DW2b-DK2-PK3-NH1-NK3,31,1,Lower frequency
+Mov. 3 - Cell 55,1,1,3,3,1,1,K3-DW1-DK1-PK3-NH1-NK1,3,13,Strong core
+Mov. 3 - Cell 56,1,1,1,2,1,1,K3-DW1-DK1-PK2-NH1-NK1,2,14,Strong core
+Mov. 3 - Cell 57,1,1,3,3,1,1,K3-DW1-DK1-PK3-NH1-NK1,3,13,Strong core
+Mov. 3 - Cell 58,2b,2,1,1,1,2,K3-DW2b-DK2-PK1-NH1-NK2,10,2,Lower frequency
+Mov. 3 - Cell 6,2b,0,2,1,2,3,K3-DW2b-DK0-PK1-NH2-NK3,6,7,Broader tier
+Mov. 3 - Cell 7,2b,2,2,1,2,3,K3-DW2b-DK2-PK1-NH2-NK3,7,7,Broader tier
+Mov. 3 - Cell 8,1,1,3,2,1,1,K3-DW1-DK1-PK2-NH1-NK1,2,14,Strong core
+Mov. 3 - Cell 9,2b,0,2,1,2,3,K3-DW2b-DK0-PK1-NH2-NK3,6,7,Broader tier
