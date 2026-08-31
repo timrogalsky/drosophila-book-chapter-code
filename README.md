@@ -35,12 +35,9 @@ The extended chapter manuscript is being prepared for the Springer Nature edited
 ├── 07_Cluster_Agreement.ipynb
 ├── 08_k2_Feature_Characterization.ipynb
 ├── 09_k3_Strict_Signature_Feature_Analysis.ipynb
-├── 02_DTW_KMeans_DBSCAN_Diagnostic.ipynb
-├── *_DIAGNOSTIC_ONLY.ipynb
 ├── data/
 │   ├── raw/
-│   ├── processed/
-│   └── diagnostic/
+│   └── processed/
 ├── figures/
 ├── requirements.txt
 └── PRODUCTION_AUDIT.md
@@ -48,9 +45,9 @@ The extended chapter manuscript is being prepared for the Springer Nature edited
 
 The nine numbered notebooks constitute the production workflow and must be run in numerical order, with a fresh kernel for each notebook.
 
-`02_DTW_KMeans_DBSCAN_Diagnostic.ipynb`, notebooks named `*_DIAGNOSTIC_ONLY.ipynb`, and `data/diagnostic/` are retained as revalidation and audit provenance. They are not part of the production execution chain and are not required to reproduce the production outputs.
+The public release contains only the validated production workflow and outputs; diagnostic and revalidation provenance is retained separately in the private project archive.
 
-Current production outputs are stored in `data/processed/`. Diagnostic and revalidation outputs are stored separately in `data/diagnostic/`.
+Current production outputs are stored in `data/processed/`.
 
 ## Computational workflow
 
@@ -147,7 +144,7 @@ Run the notebooks from the repository root in numerical order:
 
 Use a fresh kernel for each notebook. Notebook outputs may consume files produced by earlier notebooks, but no in-memory kernel state is shared between stages.
 
-All repository paths are relative to the repository root. Intermediate and final production tables are written to `data/processed/`, diagnostic/revalidation tables are retained in `data/diagnostic/`, and generated production plots are written to `figures/`. The repository includes the validated production outputs from the final revalidation run, allowing the reported results to be inspected without rerunning the notebooks.
+All repository paths are relative to the repository root. Intermediate and final production tables are written to `data/processed/`, and generated production plots are written to `figures/`. The repository includes the validated production outputs from the final revalidation run, allowing the reported results to be inspected without rerunning the notebooks.
 
 ## Licensing
 
