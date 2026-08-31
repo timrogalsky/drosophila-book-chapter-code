@@ -3,7 +3,7 @@
 ## Current validated checkpoint
 
 - Branch: `main`
-- Validated production checkpoint: `0fded7dfa1e2f4fc1e26c8951e8092372d4b2c71`
+- Validated production checkpoint: `b08b6316a4e182be5993f64fcb85e9a7606a2821`
 - Environment: `C:\venvs\drosophila-book`
 - Python: 3.12
 - Production notebooks: `01` through `09`
@@ -36,7 +36,7 @@ The full `01` → `09` production sequence was rerun manually with a fresh kerne
 
 All nine notebooks completed without error.
 
-A clean clone of the public repository at this commit completed the full `01` → `09` production chain successfully and remained Git-clean afterward.
+A separate clean clone of the public repository at this checkpoint completed the full `01` → `09` production chain successfully using fresh-kernel execution and remained Git-clean afterward.
 
 The verification reproduced the expected production interfaces, assignments, feature tables, statistical analyses, and book-chapter figures. No executable source changes were made during the verification.
 
