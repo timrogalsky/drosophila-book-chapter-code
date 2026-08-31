@@ -2,8 +2,8 @@
 
 ## Current validated checkpoint
 
-- Branch: `book-chapter-cleanup`
-- Validated production checkpoint: `e4478486367f697be2ba85b6f7def3e2c2923bd6`
+- Branch: `main`
+- Validated production checkpoint: `0fded7dfa1e2f4fc1e26c8951e8092372d4b2c71`
 - Environment: `C:\venvs\drosophila-book`
 - Python: 3.12
 - Production notebooks: `01` through `09`
@@ -35,6 +35,8 @@ Absolute cell-area data are not required by the production workflow.
 The full `01` → `09` production sequence was rerun manually with a fresh kernel for every notebook after completion of the production-code and markdown harmonization work.
 
 All nine notebooks completed without error.
+
+A clean clone of the public repository at this commit completed the full `01` → `09` production chain successfully and remained Git-clean afterward.
 
 The verification reproduced the expected production interfaces, assignments, feature tables, statistical analyses, and book-chapter figures. No executable source changes were made during the verification.
 
