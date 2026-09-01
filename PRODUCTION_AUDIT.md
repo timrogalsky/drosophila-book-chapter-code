@@ -311,4 +311,4 @@ The nine-notebook production workflow is reproducible from the delta-area input 
 
 The current production notebooks have passed both controlled dependency-isolation validation and final author-side fresh-kernel execution.
 
-The remaining release work concerns repository curation, licensing and citation metadata, creation of the clean public snapshot, archival release/DOI generation, and insertion of the final immutable repository metadata into the manuscript.
+The public reproducibility release has been completed and archived as version 1.0.0 with DOI 10.5281/zenodo.22217053. The remaining publication task is insertion of the final repository and DOI metadata into the book-chapter manuscript.
