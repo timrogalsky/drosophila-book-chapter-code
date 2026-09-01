@@ -165,6 +165,10 @@ Canadian Mennonite University, Winnipeg, Manitoba, Canada
 
 ## Citation
 
+For the validated software release accompanying the extended book-chapter analysis, cite:
+
+Rogalsky, T., Malagon, N., Campbell-Enns, L., & Dyck, M. (2026). *Drosophila Cell-Dynamics Unsupervised Machine Learning Workflow* (Version 1.0.0). Zenodo. https://doi.org/10.5281/zenodo.22217053
+
 For the published proceedings analysis, please cite the paper listed above.
 
 Citation information for the extended book chapter will be added after publication.
