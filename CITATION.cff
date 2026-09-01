@@ -15,4 +15,9 @@ authors:
   - family-names: "Dyck"
     given-names: "Matthaeus"
     affiliation: "Canadian Mennonite University"
+version: "1.0.0"
+date-released: "2026-08-31"
+doi: "10.5281/zenodo.22217053"
+repository-code: "https://github.com/timrogalsky/drosophila-book-chapter-code"
+url: "https://doi.org/10.5281/zenodo.22217053"
 license: MIT
